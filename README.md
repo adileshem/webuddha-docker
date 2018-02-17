@@ -21,7 +21,7 @@ First, create `webuddha-server-image` via:
 
     docker build -t webuddha-server-image ./docker/server/
     
-Or, download it from [Dockerhub](https://hub.docker.com) `docker pull adile/webuddha-server-image`.
+Or, download it from [Dockerhub](https://hub.docker.com) via `docker pull adile/webuddha-server-image`.
 
 
 You can verified  the image was created by running `docker images`.
